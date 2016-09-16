@@ -8,4 +8,4 @@ Now, in terminal:
 
 jupyter notebook
 
-After running this command, Jupyter Notebook should open, and navigate to 
+After running this command, Jupyter Notebook should open, and navigate to FR_KurtisDavid.ipynb (after downloading with all the images/files).
