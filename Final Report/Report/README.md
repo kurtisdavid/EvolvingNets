@@ -2,12 +2,14 @@ This folder contains all the files of my final report. To get started, Jupyter N
 
 To install, run:
 
-'''
-$pip install jupyter
-'''
+```
+$ pip install jupyter
+```
 
 Now, in terminal:
 
-jupyter notebook
+```
+$ jupyter notebook
+```
 
 After running this command, Jupyter Notebook should open, and navigate to FR_KurtisDavid.ipynb (after downloading with all the images/files).
