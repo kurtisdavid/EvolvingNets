@@ -2,7 +2,9 @@ This folder contains all the files of my final report. To get started, Jupyter N
 
 To install, run:
 
-pip install jupyter
+'''
+$pip install jupyter
+'''
 
 Now, in terminal:
 
