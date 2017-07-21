@@ -1,3 +1,9 @@
+**Edit: You can now view it using Nbviewer here:**
+
+https://nbviewer.jupyter.org/github/kurtisdavid/EvolvingNets/blob/master/Final%20Report/Report/FR_KurtisDavid.ipynb
+
+If you want to have it locally follow these steps:
+
 This folder contains all the files of my final report. To get started, Jupyter Notebook must be installed.
 
 To install, run:
